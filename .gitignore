@@ -27,3 +27,14 @@ override.tf.json
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
+accurics_mac
+accurics_report.html
+.terraform.lock.hcl
+config_tenable-awsjam-demo
+.gitignore
+.gitignore
+config_tenable-awsjam-demo 2
+config.zip
+accurics_report.json
+.gitignore
+.DS_Store
